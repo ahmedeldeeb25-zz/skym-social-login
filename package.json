@@ -1,0 +1,48 @@
+{
+  "name": "skym-social-login2",
+  "version": "1.0.1",
+  "description": "Agular 5 : Social Login (Facebook and Google)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedeldeeb25/skym-social-login"
+  },
+  "author": {
+    "name": "ahmedeldeeb",
+    "email": "ahmedeldeeb5050@outlook.com"
+  },
+  "keywords": [
+    "angular",
+    "angular5",
+    "ng5",
+    "angular social login",
+    "angular facebook login",
+    "angular google login",
+    "angular 5 social login",
+    "angular5 social login",
+    "social authentication",
+    "angular social authentication",
+    "angular-social-login",
+    "angular5-social-login",
+    "social-authentication",
+    "social-login",
+    "google-authentication",
+    "angular-google-authentication",
+    "facebook-authentication",
+    "angular-facebook-authentication",
+    "angular module"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedeldeeb25/skym-social-login/issues"
+  },
+  "main": "angular5-social-login.umd.js",
+  "module": "angular5-social-login.js",
+  "jsnext:main": "angular5-social-login.js",
+  "typings": "angular5-social-login.d.ts",
+  "peerDependencies": {
+    "@angular/common": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
